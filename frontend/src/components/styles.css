@@ -1,0 +1,22 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+/* styles.css */
+
+.chakra-box {
+  background: linear-gradient(145deg, #ffffff, #f0f0f0);
+}
+
+.chakra-box:hover {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 48em) {
+  .chakra-box {
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
