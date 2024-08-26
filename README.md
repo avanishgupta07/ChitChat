@@ -2,6 +2,11 @@
 
 ChitChat is a real-time chat application that allows users to communicate seamlessly through text messages. Built with modern web technologies, it provides an intuitive interface for users to connect and chat in real-time.
 
+## Live Demo
+
+Check out the live version of this project here: [ChitChat Live](https://chitchat-1-fwze.onrender.com)
+
+
 ## Features
 
 - Real-time messaging
